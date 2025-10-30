@@ -1,6 +1,10 @@
 # LINUX.Basics
 Basic commands of linux 
-linux-basic-commands/
+
+Repository: linux-basic-commands
+# Folder Structure
+
+# linux-basic-commands/
 │
 ├── README.md
 ├── commands/
@@ -14,11 +18,11 @@ linux-basic-commands/
     ├── script_examples.sh
     └── practice_tasks.md
 
-    # 🐧 Linux Basic Commands
+    #  Linux Basic Commands
 
 Welcome to **Linux Basic Commands** — a simple guide for beginners learning the Linux command line.
 
-##  Topics Covered
+## Topics Covered
 - File Management Commands
 - User Management Commands
 - Permissions and Ownership
@@ -30,7 +34,7 @@ Welcome to **Linux Basic Commands** — a simple guide for beginners learning th
 ##  How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/linux-basic-commands.git
+   git clone https://github.com/vishwajitpatil02/linux-basic.git
 
 2. Open any .md file inside the commands folder to learn specific commands.
 
