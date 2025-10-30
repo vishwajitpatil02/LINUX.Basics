@@ -67,7 +67,8 @@ Happy Learning!
 | `cat filename` | Display file contents |
 | `touch filename` | Create an empty file |
 
-#  User Management Commands
+
+## User Management Commands
 
 | Command | Description |
 |----------|--------------|
@@ -95,7 +96,7 @@ Happy Learning!
 chmod 700 myscript.sh   # Only owner can read, write, execute
 
 
-#  System Information Commands
+# System Information Commands
 
 | Command | Description |
 |----------|--------------|
