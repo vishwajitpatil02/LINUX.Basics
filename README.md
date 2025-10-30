@@ -4,14 +4,12 @@ Basic commands of linux
 Repository: linux-basic-commands
 # Folder Structure
 
-# linux-basic-commands/
-│
+## linux-basic-commands/
 ├── README.md
 ├── commands/
 │   ├── file_management.md
 │   ├── user_management.md
 │   ├── permissions.md
-│   ├── network_commands.md
 │   └── system_info.md
 │
 └── examples/
